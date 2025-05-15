@@ -29,7 +29,7 @@ const LinkSection: React.FC = () => {
     {
       id: '4',
       platform: 'TikTok',
-      url: 'https://tiktok.com/@leooilyyy',
+      url: 'https://tiktok.com/@leoocukimaii',
       icon: 'tiktok',
       color: '#000000'
     }
